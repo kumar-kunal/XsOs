@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">XsOs</string>
+    <string name="button">Play Again</string>
+    <string name="host_button">HOST</string>
+    <string name="join_button">JOIN</string>
+</resources>
